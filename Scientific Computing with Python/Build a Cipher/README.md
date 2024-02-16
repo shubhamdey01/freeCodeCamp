@@ -1,4 +1,4 @@
-##Building a Cipher
+## Building a Cipher
 
 In this project, I learned fundamental programming concepts in Python.
 The first kind of cipher is called Caesar cipher, take each letter from the message, find its position in the alphabet, 
